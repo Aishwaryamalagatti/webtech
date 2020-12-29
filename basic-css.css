@@ -1,0 +1,22 @@
+ h1{
+	color:red;
+	font-size:40px;
+	text-decoration:overline;
+	text-transform:uppercase;
+	text-align:center;
+	background-color:burlywood;
+
+	}
+	h1,h2{
+	color: blueviolet;
+	text-align: center;
+	}
+	.ban{
+		color: blue;
+		text-decoration: brown;
+		font-size: 20px;
+	}
+		body{
+			background-color:cadetblue;
+		}
+	
