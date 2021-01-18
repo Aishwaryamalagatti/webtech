@@ -1,0 +1,25 @@
+h2{
+    background-color: black;
+    color: white;
+}
+b{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.head{
+    width: 30%;
+    height: 100%;
+    float:left;
+}
+
+.page{
+    width: 70%;
+    height: 100%;
+    float: right;
+}
+
+.page1{
+    background-color: black;
+    color: white;
+}
